@@ -1,0 +1,3 @@
+sudo apt install ros-kinetic-desktop-full ros-kinetic-gmapping ros-kinetic-urg-node ros-kinetic-amcl ros-kinetic-turtlebot*
+sudo pip install pyaudio
+sudo pip install pocketsphinx
