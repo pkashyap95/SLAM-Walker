@@ -15,7 +15,7 @@ Clone this repository into the src folder of your catkin workspace using:
 ```
 cd ~/catkin_ws/src
 
-git clone https://github.com/NYIT-PD/MoonWalker.git
+git clone https://github.com/pkashyap95/SLAM-Walker.git
 ```
 
 ## Hardware and Software Setup:
